@@ -9,4 +9,7 @@
 - Handling form submission and data processing.
 - Implementing error messages for better user feedback.
 - Styling React components using CSS.
-- Switching between dark and light mode
+- Switching between dark and light mode.
+  
+  Site: https://formmify.netlify.app/
+  
